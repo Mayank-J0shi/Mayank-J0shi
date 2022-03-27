@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayank joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank joshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayank-joshi-219658191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank joshi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/top_coder1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="top_coder1612" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gr1mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gr1mo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/grimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="grimo" height="30" width="40" /></a>
